@@ -1,3 +1,5 @@
+# 출처) https://yonghip.tistory.com/entry/Pytorch-GradCAM-%EC%B9%98%ED%8A%B8%EC%8B%9C%ED%8A%B8
+
 import timm # torchvision에서 제공하는 pretrained model보다 더 많은 사전학습된 모델을 제공함 (pytorch에서 활용가능한 사전학습 모델 제공. huggingface에서 다운받음음)
 
 import os
